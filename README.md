@@ -53,12 +53,12 @@ Identifying these drivers can help the company optimize pricing strategies and p
 How do online and offline sales channels differ in terms of revenue, transaction volume, and customer engagement?
 This analysis can help the company allocate resources more effectively between digital and physical channels.
 
-4. Product Category Performance
+<b>4. Product Category Performance</b>
 
 Which product categories contribute the most to total sales and customer retention?
 This insight can guide product assortment decisions and inventory management.
 
-5. Customer Loyalty and Repeat Purchases
+<b>5. Customer Loyalty and Repeat Purchases</b>
 
 What factors are associated with repeat purchases and long-term customer loyalty?
 Understanding these patterns can help the company strengthen retention strategies and increase customer lifetime value.
@@ -102,5 +102,31 @@ Insights are presented using a structured business presentation.
 
 9. Documentation and Version Control
 
+## Technologies Used
+Python
+Pandas
+NumPy
+SQL
+Power BI
+GitHub
+
+# Key Skills Demonstrated
+Data Cleaning and Data Preparation
+Exploratory Data Analysis (EDA)
+SQL-Based Data Analysis
+Data Visualization
+Business Intelligence Reporting
+Data Storytelling for Stakeholders
+
+
+## Project summary
+
+This project demonstrates the complete lifecycle of a data analytics workflow—from business problem definition and data processing in Python to SQL-based analysis and interactive dashboard creation in Power BI. The project concludes with insight reporting and stakeholder presentation, with full documentation and version control managed through GitHub.
+
 All project files are documented and version-controlled using GitHub.
+
+## Author
+
+Ana Carvalho
+Data Analytics | Business Intelligence | Data-Driven Decision Making
 
